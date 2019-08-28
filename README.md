@@ -1,4 +1,4 @@
-# BlenderAddons
+# Blender Scripts
 
 ### text_and_objects_waves.py
 Turns text objects into up and down-oscilating characters. Also works for multiple text objects.
